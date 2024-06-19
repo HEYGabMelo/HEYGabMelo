@@ -1,16 +1,17 @@
-## Hi there 👋
+### seja Bem vindo ao meu Perfil 🤠
 
-<!--
-**HEYGabMelo/HEYGabMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é Gabriel Melo
 
-Here are some ideas to get you started:
+-Estou estudando no Alura
+-Estou me Desenvolvendo no JavaScript
+-ultilizo esse espaço para minha Organização e Compartilhamento dos Meus projetos Desenvolvidos!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ### você Entrar em contato Comigo 📫
+
+00001095446484SP@al.educacao.sp.gov.br
+insta: _melogabriel1
+
+
+
+https://media1.tenor.com/m/tHfoQ5FObaMAAAAC/hello-hi.gif
+
