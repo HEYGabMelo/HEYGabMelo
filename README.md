@@ -3,6 +3,7 @@
 Meu Nome é Gabriel Melo
 
 -Estou estudando no Alura
+-estudo na escola Estadual Vereador Euclides miranda
 -Estou me Desenvolvendo no JavaScript
 -ultilizo esse espaço para minha Organização e Compartilhamento dos Meus projetos Desenvolvidos!!
 
